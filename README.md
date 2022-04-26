@@ -22,3 +22,8 @@ Repositório dedicado as aulas da **FIAP** de **Desenvolvimento Híbrido Mobile*
 ### 4. [Troca Imagem](https://https://github.com/andrebeolchi/Hybrid-App-Development/tree/main/TrocaImagem) 
 > **Desafio Troca Imagem**
 > 1. Clique em um dos Botões para trocar a imagem
+> 
+### 5. [Climatempo](https://github.com/andrebeolchi/Hybrid-App-Development/tree/main/Climatempo) 
+> **Aplicativo Climatempo**
+> 1. Basta selecionar uma cidade para visualizar o clima
+> 2. A imagem de fundo estará de acordo com o clima da cidade escolhida
