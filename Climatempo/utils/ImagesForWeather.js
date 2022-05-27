@@ -20,11 +20,6 @@ const images = {
     'Thunder': require('../assets/thunder.png'),
 };
 
-/**
- * Função para buscar a imagem com base no clima
- * @param {String} weather - Clima
- * @returns {Image} - Imagem do clima
- */
 export default function getImage(weather) {
     return images[weather];
 }

@@ -9,7 +9,7 @@ const axiosInstance = axios.create({
 
 export const getLocationByCity = async (city) => {
     const { data } = await axiosInstance.get(`location/search/?query=${city}`);
-    return data[0];
+    return data[0]; // woeid
 }
 
 export const getWeatherByCity = async ({ city, woeid }) => {
